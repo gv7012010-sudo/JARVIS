@@ -1,7 +1,6 @@
-# 🤖 MARK XXXIX (39)
-### The Ultimate Cross-Platform Personal AI Assistant — By FatihMakes
+# 🤖 gb_villa_g (18)
+### The Ultimate Cross-Platform Personal AI Assistant — By Lee
 
-> 📺 **[Watch the full setup video on YouTube](https://youtu.be/ej1f5OE3SNQ?si=lCxDhJix9ungq1Ry)**
 
 A real-time voice AI that can hear, see, understand, and control your computer — on any OS. Supporting Windows, macOS, and Linux. Local execution. Zero subscriptions. Engineered for total autonomy.
 
@@ -9,7 +8,7 @@ A real-time voice AI that can hear, see, understand, and control your computer �
 
 ## ✨ Overview
 
-MARK XXXIX represents the pinnacle of the Jarvis series, evolving into a more flexible and robust system. It bridges the gap between the operating system and human intent. Through natural dialogue, Mark 39 analyzes your screen, processes uploaded documents, and executes complex workflows with a brand-new, adaptive interface.
+gb_villa_g  represents the pinnacle of the Jarvis series, evolving into a more flexible and robust system. It bridges the gap between the operating system and human intent. Through natural dialogue, Mark 39 analyzes your screen, processes uploaded documents, and executes complex workflows with a brand-new, adaptive interface.
 
 It's not just an assistant — it's an extension of your digital life.
 
@@ -41,8 +40,8 @@ It's not just an assistant — it's an extension of your digital life.
 ## ⚡ Quick Start
 
 ```bash
-git clone https://github.com/FatihMakes/Mark-XXXIX.git
-cd Mark-XXXIX
+git clone https://github.com/gv7012010-sudo
+cd gb_villa_g
 pip install -r requirements.txt
 playwright install
 python main.py
@@ -63,10 +62,7 @@ python main.py
 
 ---
 
-## ⚠️ License
 
-Personal and non-commercial use only.
-Licensed under **[Creative Commons BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)**.
 
 ---
 
@@ -77,5 +73,4 @@ Engineered by a developer building a real-world JARVIS-style assistant.
 
 | Platform | Link |
 |---|---|
-| YouTube | [@FatihMakes](https://www.youtube.com/@FatihMakes) |
-| Instagram | [@fatihmakes](https://www.instagram.com/fatihmakes) |
+| Instagram | [@fatihmakes](https://www.instagram.com/gb_villa_g?igsh=MnJuMmF4cm9qdzl1) |
