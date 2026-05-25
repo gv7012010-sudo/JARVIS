@@ -8,7 +8,7 @@ A real-time voice AI that can hear, see, understand, and control your computer �
 
 ## ✨ Overview
 
-gb_villa_g  represents the pinnacle of the Jarvis series, evolving into a more flexible and robust system. It bridges the gap between the operating system and human intent. Through natural dialogue, Mark 39 analyzes your screen, processes uploaded documents, and executes complex workflows with a brand-new, adaptive interface.
+gb_villa_g  represents the pinnacle of the Jarvis series, evolving into a more flexible and robust system. It bridges the gap between the operating system and human intent. Through natural dialogue, gb_villa_g 18 analyzes your screen, processes uploaded documents, and executes complex workflows with a brand-new, adaptive interface.
 
 It's not just an assistant — it's an extension of your digital life.
 
@@ -73,4 +73,4 @@ Engineered by a developer building a real-world JARVIS-style assistant.
 
 | Platform | Link |
 |---|---|
-| Instagram | [@fatihmakes](https://www.instagram.com/gb_villa_g?igsh=MnJuMmF4cm9qdzl1) |
+| Instagram | [@gb_villa_g](https://www.instagram.com/gb_villa_g?igsh=MnJuMmF4cm9qdzl1) |
