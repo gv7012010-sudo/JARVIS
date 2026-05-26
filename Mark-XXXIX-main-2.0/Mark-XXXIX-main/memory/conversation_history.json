@@ -1,0 +1,504 @@
+{
+  "conversations": [
+    {
+      "user": "un correo",
+      "jarvis": "",
+      "timestamp": "2026-05-25T08:32:08.785215"
+    },
+    {
+      "user": "a las 6 de la ta rde en via ndo",
+      "jarvis": "",
+      "timestamp": "2026-05-25T08:32:14.004366"
+    },
+    {
+      "user": "un re cordatorio",
+      "jarvis": "",
+      "timestamp": "2026-05-25T08:32:17.064375"
+    },
+    {
+      "user": "de que hay cla se de ing lé s al cor re o G V 7 0 2 010.",
+      "jarvis": "He iniciado la tarea de programar el correo electrónico para hoy a las 18:00 horas.",
+      "timestamp": "2026-05-25T08:32:33.650341"
+    },
+    {
+      "user": "sin.",
+      "jarvis": "",
+      "timestamp": "2026-05-25T08:32:52.624353"
+    },
+    {
+      "user": "2009, 90, 90.",
+      "jarvis": "Disculpa, no comprendo. ¿Podrías clarifying lo que necesitas?",
+      "timestamp": "2026-05-25T08:33:00.514831"
+    },
+    {
+      "user": "Lo que quiero es que me crees.",
+      "jarvis": "",
+      "timestamp": "2026-05-25T08:33:23.123496"
+    },
+    {
+      "user": "Un re cord ato rio , pero que se a via G mail que en ví e un cor re o a G V 7 0 2 0 1 0 en la aplica ción de G mail o en la web donde me lle gue el cor re o person al di ciendo cla se de ing lé s a las 6 p m al cor re o G 7 0 2 0 1 0 .",
+      "jarvis": "Correo de recordatorio para \"clase de inglés\" enviado a GV702010 correctamente por Gmail.",
+      "timestamp": "2026-05-25T08:34:04.564551"
+    },
+    {
+      "user": "Minimizaten.",
+      "jarvis": "Minimizado.",
+      "timestamp": "2026-05-25T08:34:16.442323"
+    },
+    {
+      "user": "Mi nimi za Visual Studio.",
+      "jarvis": "Minimizando Visual Studio.",
+      "timestamp": "2026-05-25T08:34:36.567422"
+    },
+    {
+      "user": "সিরহান",
+      "jarvis": "",
+      "timestamp": "2026-05-25T08:34:41.494190"
+    },
+    {
+      "user": "Cloudy.",
+      "jarvis": "Cerrando Cloudy.",
+      "timestamp": "2026-05-25T08:34:46.987876"
+    },
+    {
+      "user": "We are Mi crosoft H",
+      "jarvis": "",
+      "timestamp": "2026-05-25T08:35:00.785573"
+    },
+    {
+      "user": "a Wikipedia.",
+      "jarvis": "",
+      "timestamp": "2026-05-25T08:35:07.387869"
+    },
+    {
+      "user": "No, Wikipedia, no.",
+      "jarvis": "",
+      "timestamp": "2026-05-25T08:35:07.389450"
+    },
+    {
+      "user": "Quiero que vaya s",
+      "jarvis": "¿A qué sitio web deseas ir en Microsoft Edge?",
+      "timestamp": "2026-05-25T08:35:13.038560"
+    },
+    {
+      "user": "A vem Mi cro soft E dge ve a la pá gina de no ticias.",
+      "jarvis": "",
+      "timestamp": "2026-05-25T08:35:20.450082"
+    },
+    {
+      "user": "y da me un resumen del día de hoy.",
+      "jarvis": "Abriendo Microsoft Edge y navegando a la página de noticias para ofrecerte un resumen del día. Ha ocurrido un error al intentar abrir Microsoft Edge. ¿Te gustaría intentar de nuevo o usar otro navegador?",
+      "timestamp": "2026-05-25T08:35:38.473027"
+    },
+    {
+      "user": "Intenta lo único.",
+      "jarvis": "Ha fallado nuevamente. Parece que hay un problema con el navegador. ¿Quieres que busque las noticias en un navegador diferente?",
+      "timestamp": "2026-05-25T08:35:50.049792"
+    },
+    {
+      "user": "Sì.",
+      "jarvis": "De acuerdo. Buscaré las noticias y te daré un resumen en el navegador predeterminado. El navegador sigue dando error. ¿Hay algún problema con las aplicaciones en tu sistema?",
+      "timestamp": "2026-05-25T08:36:04.119332"
+    },
+    {
+      "user": "เรา เรียก ว่า สัตว์",
+      "jarvis": "Abriendo WhatsApp.",
+      "timestamp": "2026-05-25T08:36:45.795740"
+    },
+    {
+      "user": "B Eli za de Pa pá y llámalo.",
+      "jarvis": "Iniciando llamada de voz a Papá por WhatsApp.",
+      "timestamp": "2026-05-25T08:37:13.497148"
+    },
+    {
+      "user": "no se está iniciando.",
+      "jarvis": "",
+      "timestamp": "2026-05-25T08:37:17.329861"
+    },
+    {
+      "user": "Hazlo trabajas.",
+      "jarvis": "Iniciando videollamada a Papá por WhatsApp.",
+      "timestamp": "2026-05-25T08:37:38.228665"
+    },
+    {
+      "user": "Contacto de papá.",
+      "jarvis": "No tengo el contacto de \"Papá\" guardado. ¿Te gustaría que lo guarde o tienes el número?",
+      "timestamp": "2026-05-25T08:42:39.547477"
+    },
+    {
+      "user": "WhatsApp",
+      "jarvis": "",
+      "timestamp": "2026-05-25T08:42:45.465843"
+    },
+    {
+      "user": "al contacto de papá.",
+      "jarvis": "",
+      "timestamp": "2026-05-25T08:42:48.090788"
+    },
+    {
+      "user": "llá ma lo por lla ma da normal vía WhatsApp.",
+      "jarvis": "Iniciando llamada de voz por WhatsApp a Papá.",
+      "timestamp": "2026-05-25T08:43:11.696293"
+    },
+    {
+      "user": "No est á llamando, corrige.",
+      "jarvis": "Parece que la llamada no se está realizando. ¿Podrías proporcionarme el número de teléfono de \"Papá\" o verificar el nombre del contacto?",
+      "timestamp": "2026-05-25T08:43:31.694612"
+    },
+    {
+      "user": "Es 3 0 1 6 4 5 4 8 0 6.",
+      "jarvis": "Iniciando llamada de voz por WhatsApp al número 3016454806.",
+      "timestamp": "2026-05-25T08:44:04.698438"
+    },
+    {
+      "user": "no está llamando",
+      "jarvis": "Entendido. La llamada de WhatsApp parece no estar funcionando. ¿Te gustaría intentar una llamada normal?",
+      "timestamp": "2026-05-25T08:44:20.130246"
+    },
+    {
+      "user": "No , sola mente había WhatsApp.",
+      "jarvis": "",
+      "timestamp": "2026-05-25T08:44:23.730261"
+    },
+    {
+      "user": "Di me cuál es el problema y yo yo yo yo yo yo yo yo corrí.",
+      "jarvis": "No puedo determinar el problema exacto de la llamada de WhatsApp con las herramientas disponibles. Podría deberse a un error de la aplicación, de conexión a internet o a que el contacto no está registrado en WhatsApp. ¿Te gustaría intentar abrir la aplicación para que puedas revisarlo manualmente?",
+      "timestamp": "2026-05-25T08:44:46.832728"
+    },
+    {
+      "user": "E ra e sto , e sto viene porque se va a pa gar el pres ente un cor re ctor de 2 5 , pero ta mbién para el televisor.",
+      "jarvis": "",
+      "timestamp": "2026-05-25T08:45:03.053236"
+    },
+    {
+      "user": ".",
+      "jarvis": "Disculpa, no estoy seguro de entender lo que mencionas sobre el televisor y el corrector. ¿Podrías corregir o aclarar lo que necesitas?",
+      "timestamp": "2026-05-25T08:45:17.435625"
+    },
+    {
+      "user": "No, ciérrate.",
+      "jarvis": "",
+      "timestamp": "2026-05-25T08:45:22.109033"
+    },
+    {
+      "user": "Laos.",
+      "jarvis": "",
+      "timestamp": "2026-05-25T08:45:34.895413"
+    },
+    {
+      "user": ".",
+      "jarvis": "",
+      "timestamp": "2026-05-25T08:45:52.846821"
+    },
+    {
+      "user": "20",
+      "jarvis": "",
+      "timestamp": "2026-05-25T08:45:58.716112"
+    },
+    {
+      "user": "Hola, res.",
+      "jarvis": "Hola. ¿En qué puedo ayudarte?",
+      "timestamp": "2026-05-25T09:18:23.671779"
+    },
+    {
+      "user": "necesita, necesita,",
+      "jarvis": "",
+      "timestamp": "2026-05-25T09:18:57.879687"
+    },
+    {
+      "user": "A ver, eh Spotify.",
+      "jarvis": "¿Qué te gustaría hacer en Spotify? ¿Reproducir música, buscar una canción o algo más?",
+      "timestamp": "2026-05-25T09:19:08.457031"
+    },
+    {
+      "user": "reproducir una canción.",
+      "jarvis": "¿Qué canción deseas escuchar?",
+      "timestamp": "2026-05-25T09:19:17.166117"
+    },
+    {
+      "user": "That",
+      "jarvis": "",
+      "timestamp": "2026-05-25T09:19:22.166218"
+    },
+    {
+      "user": "in bla ck the ACDC.",
+      "jarvis": "Reproduciendo \"Back In Black\" de ACDC en Spotify.",
+      "timestamp": "2026-05-25T09:19:46.475510"
+    },
+    {
+      "user": "En ahora la mención.",
+      "jarvis": "Canción pausada.",
+      "timestamp": "2026-05-25T09:20:03.875621"
+    },
+    {
+      "user": "Minimiza foto.",
+      "jarvis": "Listo, he minimizado la ventana.",
+      "timestamp": "2026-05-25T09:20:15.493989"
+    },
+    {
+      "user": "Mi nimiza Visual Studio Code.",
+      "jarvis": "Minimizado Visual Studio Code.",
+      "timestamp": "2026-05-25T09:20:23.739337"
+    },
+    {
+      "user": "Re produ ce H de 0.",
+      "jarvis": "Reproduciendo ACDC.",
+      "timestamp": "2026-05-25T09:20:58.849289"
+    },
+    {
+      "user": "re produ ce de ce ro back in black.",
+      "jarvis": "Reproduciendo \"Back In Black\".",
+      "timestamp": "2026-05-25T09:21:24.127484"
+    },
+    {
+      "user": "Reproduce la design.",
+      "jarvis": "Reanudando la canción.",
+      "timestamp": "2026-05-25T09:21:38.283774"
+    },
+    {
+      "user": "Pona desde cero.",
+      "jarvis": "",
+      "timestamp": "2026-05-25T09:21:42.030483"
+    },
+    {
+      "user": "Desde el inicio.",
+      "jarvis": "Reiniciando la canción.",
+      "timestamp": "2026-05-25T09:21:47.777906"
+    },
+    {
+      "user": "es pausa.",
+      "jarvis": "Pausado.",
+      "timestamp": "2026-05-25T09:22:07.818128"
+    },
+    {
+      "user": "con la canción anterior.",
+      "jarvis": "Pista anterior.",
+      "timestamp": "2026-05-25T09:22:22.987220"
+    },
+    {
+      "user": "minimiza, Spotify.",
+      "jarvis": "",
+      "timestamp": "2026-05-25T09:22:30.151750"
+    },
+    {
+      "user": "Minimize Spot.",
+      "jarvis": "Let me check",
+      "timestamp": "2026-05-25T09:22:35.996085"
+    },
+    {
+      "user": "เอา เรียก ว่า สับ",
+      "jarvis": "¿Hola! ¿Qué te gustaría hacer en WhatsApp? ¿Enviar un mensaje o hacer una llamada?",
+      "timestamp": "2026-05-25T09:22:43.423441"
+    },
+    {
+      "user": "Esto lo abre.",
+      "jarvis": "Abriendo WhatsApp.",
+      "timestamp": "2026-05-25T09:22:56.778484"
+    },
+    {
+      "user": "minimise.",
+      "jarvis": "Let me check",
+      "timestamp": "2026-05-25T09:23:04.093620"
+    },
+    {
+      "user": "Ab re Mi cro soft E dge que está abier to a la barra de tareas.",
+      "jarvis": "",
+      "timestamp": "2026-05-25T09:23:16.369548"
+    },
+    {
+      "user": "Ma xi mi za Microsoft Edge.",
+      "jarvis": "Let me check",
+      "timestamp": "2026-05-25T09:23:22.296661"
+    },
+    {
+      "user": "Ma ximiza Microsoft H.",
+      "jarvis": "",
+      "timestamp": "2026-05-25T09:23:28.968268"
+    },
+    {
+      "user": "Maximum.",
+      "jarvis": "Let me check",
+      "timestamp": "2026-05-25T09:23:35.797299"
+    },
+    {
+      "user": "Ma xi mi za WhatsApp y ábrele.",
+      "jarvis": "",
+      "timestamp": "2026-05-25T09:24:05.163144"
+    },
+    {
+      "user": "el cha t de María Ale y e scri be hola bu eno s días my friend.",
+      "jarvis": "Let me check",
+      "timestamp": "2026-05-25T09:24:25.393001"
+    },
+    {
+      "user": "Mi nimiza WhatsApp.",
+      "jarvis": "",
+      "timestamp": "2026-05-25T09:24:34.513330"
+    },
+    {
+      "user": "Maxim edge.",
+      "jarvis": "Let me check",
+      "timestamp": "2026-05-25T09:24:39.657929"
+    },
+    {
+      "user": "मैक्सिमम",
+      "jarvis": "Let me check",
+      "timestamp": "2026-05-25T09:24:47.912405"
+    },
+    {
+      "user": "En tra WhatsApp",
+      "jarvis": "",
+      "timestamp": "2026-05-25T09:24:52.991366"
+    },
+    {
+      "user": "y e scri be a So fí a DL.",
+      "jarvis": "",
+      "timestamp": "2026-05-25T09:24:56.823033"
+    },
+    {
+      "user": "y di le que re vi se en la guí a que está en la plata forma que hay que gra bar un video.",
+      "jarvis": "Let me check",
+      "timestamp": "2026-05-25T09:25:22.547391"
+    },
+    {
+      "user": "Es crí bele a So fia DL.",
+      "jarvis": "",
+      "timestamp": "2026-05-25T09:25:39.529917"
+    },
+    {
+      "user": "y dile",
+      "jarvis": "",
+      "timestamp": "2026-05-25T09:25:40.854033"
+    },
+    {
+      "user": "que esta maña na que esta ba re visa ndo en la guía",
+      "jarvis": "",
+      "timestamp": "2026-05-25T09:25:46.810458"
+    },
+    {
+      "user": "de cí a cla ramente que en el punto cin co me vi ene que gra bar un video cla ro está ya se a Me et o en Te am s o do nde se an , cla ro que se le ve a la cara uno y compa rtiendo panta lla del e jerci cio explica ndo pun to por pun to de có mo no s lo hi zo y ju stifica ndo todo .",
+      "jarvis": "Let me check",
+      "timestamp": "2026-05-25T09:26:22.601650"
+    },
+    {
+      "user": "Má nda le men saje a la misma person a y dile",
+      "jarvis": "¿Qué mensaje deseas enviarle a Sofía DL?",
+      "timestamp": "2026-05-25T09:26:51.444923"
+    },
+    {
+      "user": "No , no manda men sajes a Sofia de L toda toda.",
+      "jarvis": "Entendido. ¿Qué hacemos entonces?",
+      "timestamp": "2026-05-25T09:27:11.207915"
+    },
+    {
+      "user": "re produ ce el au dio de Sofía de L.",
+      "jarvis": "No puedo reproducir audios directamente de un contacto de WhatsApp. ¿Hay algo más que pueda hacer?",
+      "timestamp": "2026-05-25T09:27:26.020542"
+    },
+    {
+      "user": "Pause Spotify.",
+      "jarvis": "",
+      "timestamp": "2026-05-25T09:27:39.843787"
+    },
+    {
+      "user": "abre WhatsApp.",
+      "jarvis": "Let me check",
+      "timestamp": "2026-05-25T09:27:48.805765"
+    },
+    {
+      "user": "Hola,",
+      "jarvis": "Hola, ¿en qué puedo ayudarte?",
+      "timestamp": "2026-05-25T09:31:33.911575"
+    },
+    {
+      "user": "Entre Spo tif y y re produ ce la antigua canción.",
+      "jarvis": "Abriendo Spotify y reproduciendo la canción anterior.",
+      "timestamp": "2026-05-25T09:31:51.258041"
+    },
+    {
+      "user": "Sigue.",
+      "jarvis": "",
+      "timestamp": "2026-05-25T09:32:00.480516"
+    },
+    {
+      "user": "La anterior",
+      "jarvis": "",
+      "timestamp": "2026-05-25T09:32:06.884949"
+    },
+    {
+      "user": "Минимизатор ярися.",
+      "jarvis": "Minimizando la ventana de taylor's.",
+      "timestamp": "2026-05-25T09:32:37.351858"
+    },
+    {
+      "user": "el estudio.",
+      "jarvis": "Abriendo Visual Studio Code.",
+      "timestamp": "2026-05-25T09:32:47.081300"
+    },
+    {
+      "user": "O ur Spo tif y ir re produ ce ba ck in bla ck de",
+      "jarvis": "Reproduciendo Back In Black de AC/DC",
+      "timestamp": "2026-05-25T19:41:25.989822"
+    },
+    {
+      "user": "Reproducela.",
+      "jarvis": "",
+      "timestamp": "2026-05-25T19:41:46.568254"
+    },
+    {
+      "user": "lang.",
+      "jarvis": "",
+      "timestamp": "2026-05-25T19:41:46.635500"
+    },
+    {
+      "user": "인정?",
+      "jarvis": "",
+      "timestamp": "2026-05-25T19:41:47.819436"
+    },
+    {
+      "user": "Gracias.",
+      "jarvis": "De nada. ¿Necesitas algo más antes de cerrar?",
+      "timestamp": "2026-05-25T19:46:45.225155"
+    },
+    {
+      "user": ".",
+      "jarvis": "",
+      "timestamp": "2026-05-25T19:46:49.673414"
+    },
+    {
+      "user": "Aho ra Spo tif y re produ zca ba ck in bla ck de AC DC.",
+      "jarvis": "Reproduciendo \"Back In Black\" de ACDC en Spotify.",
+      "timestamp": "2026-05-25T19:47:12.057726"
+    },
+    {
+      "user": ", reproduct.",
+      "jarvis": "Pausado.",
+      "timestamp": "2026-05-25T19:47:25.035673"
+    },
+    {
+      "user": "अब गीत हफ्",
+      "jarvis": "",
+      "timestamp": "2026-05-25T19:47:39.725115"
+    },
+    {
+      "user": "Okay.",
+      "jarvis": "De acuerdo.",
+      "timestamp": "2026-05-25T19:47:43.933646"
+    },
+    {
+      "user": "que a ver , no compartir pantalla, perdón.",
+      "jarvis": "No te preocupes. ¿En qué más puedo ayudarte?",
+      "timestamp": "2026-05-25T19:47:54.120106"
+    },
+    {
+      "user": "Sì.",
+      "jarvis": "Dime.",
+      "timestamp": "2026-05-25T19:48:00.950157"
+    },
+    {
+      "user": "Super. Aqui.",
+      "jarvis": "",
+      "timestamp": "2026-05-25T19:48:03.355150"
+    }
+  ]
+}
